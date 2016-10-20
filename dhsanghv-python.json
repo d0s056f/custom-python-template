@@ -25,7 +25,7 @@
       {
          "description": "Git source URI for application",
          "name": "GIT_URI",
-         "value": "https://github.com/giggityuser/custom-java-template.git"
+         "value": "https://github.com/giggityuser/custom-python-template.git"
       },
       {
          "description": "Git branch/tag reference",
